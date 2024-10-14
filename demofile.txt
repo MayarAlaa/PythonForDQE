@@ -1,46 +1,41 @@
 News feed:
 News:......................
-News tect
-cairo, 2024/10/10 12:21:18
+This is a test from console
+Paris, 2024/10/14 11:20:19
 
 
 Private Ad:......................
-Test test ffhewifwefh
-Actual until 2028/12/12, 1523 days left
+This is another test from console but for ads
+Actual until 2029/12/30, 1902 days left
 
 
 Private Ad:......................
-Test ffhewifwefh
-Actual until 2028/12/13, 1524 days left
+Ad tect
+Actual until 2022/12/01, -684 days left
 
 
 News:......................
 News tect
-cairo, 2024/10/10 12:21:57
+cairo, 2024/10/14 11:22:32
 
 
 Private Ad:......................
-Test test ffhewifwefh
-Actual until 2028/12/12, 1523 days left
-
-
-Private Ad:......................
-Test ffhewifwefh
-Actual until 2028/12/13, 1524 days left
+3rd testing for console
+Actual until 2027/03/09, 875 days left
 
 
 News:......................
-News tect
-cairo, 2024/10/10 12:23:06
+Testing 1st xml
+Assiut, 2024/10/14 11:25:27
+
+
+News:......................
+Testing 2nd xml
+Cairo, 2024/10/14 11:25:27
 
 
 Private Ad:......................
-Test test ffhewifwefh
-Actual until 2028/12/12, 1523 days left
-
-
-Private Ad:......................
-Test ffhewifwefh
-Actual until 2028/12/13, 1524 days left
+Testing 3rd xml
+Actual until 2029/05/05, 1663 days left
 
 

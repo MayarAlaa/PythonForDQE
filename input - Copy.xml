@@ -1,0 +1,19 @@
+<publications>
+	<publication>
+		<publication_type> News </publication_type>
+		<text>    testing 1st xml         </text>
+		<city>   Assiut           </city>
+	</publication>
+	<publication>
+		<publication_type> News </publication_type>
+		<text>    testing 2nd xml           </text>
+		<city>    Cairo         </city>
+	</publication>
+	<publication>
+		<publication_type> Ad </publication_type>
+		<text>   testing 3rd xml           </text>
+		<date>   2029/05/05           </date>
+	</publication>
+</publications>
+
+
